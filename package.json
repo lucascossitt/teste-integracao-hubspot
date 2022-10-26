@@ -21,5 +21,12 @@
     "@hubspot/api-client": "^7.1.2",
     "dotenv": "^16.0.3",
     "google-spreadsheet": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
