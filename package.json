@@ -1,0 +1,25 @@
+{
+  "name": "teste-integracao-hubspot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascossitt/teste-integracao-hubspot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascossitt/teste-integracao-hubspot/issues"
+  },
+  "homepage": "https://github.com/lucascossitt/teste-integracao-hubspot#readme",
+  "dependencies": {
+    "@hubspot/api-client": "^7.1.2",
+    "dotenv": "^16.0.3",
+    "google-spreadsheet": "^3.3.0"
+  }
+}
